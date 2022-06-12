@@ -1,5 +1,5 @@
-# GN84_VITEK_pdf_converter
-Script that takes output PDFs from the VITEK 2 Compact for the GN84 card and converts them to useable csv.
+# AST-GN84_VITEK_pdf_converter
+Script that takes output PDFs from the VITEK 2 Compact for the AST-GN84 card and converts them to useable csv.
 
 Place all exported PDF's into one folder and use this script to turn them into a useable csv. This is specifically for the AST-GN84 VITEK card. The other information the script needs is what you want the output csv to be named and the filepath where you want it to go.
 
